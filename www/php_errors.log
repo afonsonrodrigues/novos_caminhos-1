@@ -1,0 +1,22 @@
+[03-Oct-2020 14:59:37 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/2.3/index.php on line 16
+[03-Oct-2020 16:25:47 America/Araguaina] PHP Parse error:  syntax error, unexpected 'PHPClassSession' (T_STRING) in /usr/share/nginx/html/2.3/index.php on line 36
+[03-Oct-2020 16:32:28 America/Araguaina] PHP Parse error:  syntax error, unexpected 'PHPClassSession' (T_STRING) in /usr/share/nginx/html/2.3/index.php on line 46
+[03-Oct-2020 16:33:10 America/Araguaina] PHP Parse error:  syntax error, unexpected 'PHPClassSession' (T_STRING) in /usr/share/nginx/html/2.3/index.php on line 46
+[03-Oct-2020 16:35:18 America/Araguaina] PHP Parse error:  syntax error, unexpected 'PHPClassSession' (T_STRING) in /usr/share/nginx/html/2.3/index.php on line 49
+[03-Oct-2020 17:09:38 America/Araguaina] PHP Parse error:  syntax error, unexpected 'PHPClassSession' (T_STRING) in /usr/share/nginx/html/8.3/index.php on line 27
+[03-Oct-2020 18:27:24 America/Araguaina] PHP Parse error:  syntax error, unexpected '$logicB' (T_VARIABLE) in /usr/share/nginx/html/8.3/index.php on line 37
+[03-Oct-2020 18:30:00 America/Araguaina] PHP Parse error:  syntax error, unexpected '$logicB' (T_VARIABLE) in /usr/share/nginx/html/8.3/index.php on line 37
+[03-Oct-2020 18:30:05 America/Araguaina] PHP Parse error:  syntax error, unexpected '$logicB' (T_VARIABLE) in /usr/share/nginx/html/8.3/index.php on line 37
+[03-Oct-2020 18:33:53 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/8.3/index.php on line 54
+[03-Oct-2020 19:05:07 America/Araguaina] PHP Parse error:  syntax error, unexpected '"Aluno"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /usr/share/nginx/html/8.5/index.php on line 63
+[03-Oct-2020 19:10:07 America/Araguaina] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /usr/share/nginx/html/8.6/index.php on line 11
+[03-Oct-2020 19:10:30 America/Araguaina] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /usr/share/nginx/html/8.6/index.php on line 11
+[03-Oct-2020 19:11:02 America/Araguaina] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /usr/share/nginx/html/8.6/index.php on line 11
+[03-Oct-2020 19:11:31 America/Araguaina] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /usr/share/nginx/html/8.6/index.php on line 12
+[03-Oct-2020 19:18:08 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting '(' in /usr/share/nginx/html/8.6/index.php on line 23
+[03-Oct-2020 19:18:45 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting '(' in /usr/share/nginx/html/8.6/index.php on line 23
+[03-Oct-2020 19:19:18 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting '(' in /usr/share/nginx/html/8.6/index.php on line 23
+[03-Oct-2020 19:19:51 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting '(' in /usr/share/nginx/html/8.6/index.php on line 23
+[03-Oct-2020 19:20:12 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting '(' in /usr/share/nginx/html/8.6/index.php on line 23
+[03-Oct-2020 19:22:20 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting '(' in /usr/share/nginx/html/8.6/index.php on line 23
+[03-Oct-2020 19:22:55 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/8.6/index.php on line 26
