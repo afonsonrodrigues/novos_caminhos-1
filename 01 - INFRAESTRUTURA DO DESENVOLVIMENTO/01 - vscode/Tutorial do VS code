@@ -16,6 +16,7 @@ Tutorial de Instalação e configuração do VSCODE
 
 () 3 Instalar o VsCode em portugues (Opcional, opte pode deixar em inglês mesmo)
 
+<<<<<<< HEAD
 (✔) 4 - Instalar extensões
 
  - (✔) PHP intelephense
@@ -45,6 +46,37 @@ Tutorial de Instalação e configuração do VSCODE
  - (✔) Wakatime
 
 (✔) 06 - Alguns atalhos interessantes
+=======
+() 4 - Instalar extensões
+
+ - () PHP intelephense
+ - () Markdown All in One
+ - () Bracket Pair Colorizer 2
+ - () indent-rainbow
+ - () git-leans
+ - () git graph
+ - () vscode faker
+ - () ESLint
+ - () presentation mode 
+ - () Material Icons
+ - () TODO
+ - () Auto Close Tag
+ - () Path Intellisense
+ - () Auto rename
+ - () Format HTML in PHP
+ - () PHP Getters & Setters
+ - () Theme Monokai
+ - () PHP debug
+ - () PHP constructor
+ - () php namespace resolver
+ - () PHP DocBlocker
+ - () PHP Snippets
+ - () PHP Getter & Setter
+ - () Minify
+ - () Wakatime
+
+() 06 - Alguns atalhos interessantes
+>>>>>>> upstream/master
 
   – Navegar: ctrl + p
   – Command Palette: ctrl + shift + p
