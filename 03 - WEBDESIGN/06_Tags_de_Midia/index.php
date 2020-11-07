@@ -159,7 +159,7 @@
                 </ol>
             </div>
             <footer>
-                <p>Autor: Iury Gomes de Oliveira</p>
+                <p>Autor: Afonso Nunes Rodrigues</p>
             </footer>
         </article>
 

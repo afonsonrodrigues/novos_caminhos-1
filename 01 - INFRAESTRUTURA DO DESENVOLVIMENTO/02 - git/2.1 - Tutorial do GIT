@@ -12,7 +12,7 @@ TUTORIAL DO GIT
 
 (✔) 3 - CONFIGURAÇÃO INICIAL
      (✔) Verificar instalação do git: git -v
-     (✔) Configurar user name: git config --global user.name "Iury Gomes de Oliveira"
+     (✔) Configurar user name: git config --global user.name "Afonso Nunes Rodrigues"
      (✔) Configurar email: git config --global user.email "seu_email@email.com.br"
      (✔) Configurar colorização: git config --global color.ui true
 

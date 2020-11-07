@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Afonso Nunes Rodrigues</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Afonso Nunes Rodrigues" />
+    <meta name="description" content="Portifólio de trabalhos realizados e formação de Afonso Nunes Rodrigues" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
@@ -37,33 +37,22 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Afonso Nunes Rodrigues">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
+                        <h4 class="title titl--h4">Afonso Nunes Rodrigues</h4>
                         <div class="status">Desenvolvedor WEB</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                <a href="https://www.linkedin.com/in/afonso-rodrigues-9a76a3140/">
                                     <i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/afonsonrodrigues">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
-                                    <i class="font-icon icon-youtube"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/IuryProf">
-                                    <i class="font-icon icon-twitter"></i>
-                                </a>
-                            </li>
-
                         </ul>
                     </div>
                 </div>
@@ -86,7 +75,7 @@
                             <span class="overhead">
                                 Endereço
                             </span>
-                            Endereço Comercial - UF
+                            NIterói - RJ
                         </li>
                     </ul>
                 </div>
@@ -169,7 +158,7 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Iury Gomes de Oliveira</footer>
+                    <footer class="footer">© Afonso Nunes Rodrigues</footer>
                 </div>
             </div>
         </div>
