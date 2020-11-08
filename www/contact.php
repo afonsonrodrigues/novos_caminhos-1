@@ -37,7 +37,7 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Afonso Nunes Rodrigues">
+                        <img class="header__photo-img" src="assets/img/profile.jpg" alt="Afonso Nunes Rodrigues">
                     </div>
                     <div class="header__base-info">
                         <h4 class="title titl--h4">Afonso Nunes Rodrigues</h4>
